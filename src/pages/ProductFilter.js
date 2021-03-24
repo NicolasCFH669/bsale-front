@@ -1,4 +1,3 @@
-import { async } from 'rxjs';
 import getLicours from '../utils/getLicours'
 
 const ProductFilter = async () => {

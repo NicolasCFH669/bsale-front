@@ -1,4 +1,3 @@
-const { async } = require("rxjs");
 // falta crear metodos de los filtros ej: sobre la apifilter crear function que trae pisco, bebida, etc...
 
 const api = 'http://localhost:3002/api/v.1.0/products';

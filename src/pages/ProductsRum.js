@@ -1,4 +1,3 @@
-import { async } from 'rxjs';
 import getRums from '../utils/getRums'
 
 const ProductsRum = async () => {

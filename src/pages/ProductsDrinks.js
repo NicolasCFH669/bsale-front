@@ -1,4 +1,3 @@
-import { async } from 'rxjs';
 import getDrinks from '../utils/getDrinks'
 
 const ProductsDrinks = async () => {

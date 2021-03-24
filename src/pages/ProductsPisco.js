@@ -1,4 +1,3 @@
-import { async } from 'rxjs';
 import getPisco from '../utils/getPisco'
 
 const ProductsPisco = async () => {

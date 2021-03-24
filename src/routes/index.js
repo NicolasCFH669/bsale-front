@@ -8,7 +8,6 @@ import ProductsRum from '../pages/ProductsRum';
 import ProductsSnacks from '../pages/ProductsSnacks';
 import ProductsVodka from '../pages/ProductsVodka';
 import Error from '../pages/Error';
-import { async } from 'rxjs';
 import getHash from '../utils/getHash';
 import resolveRoutes from '../utils/rsolveRoutes';
 
