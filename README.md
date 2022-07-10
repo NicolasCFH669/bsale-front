@@ -8,6 +8,7 @@ Tambien librerias externas para agilizar el desarrollo. como Bootstrap 5, Axios.
 ![image](https://user-images.githubusercontent.com/75447311/178129498-f1cfe3c6-ff3f-48e1-8999-fecb46dae5cf.png)
 
 Cuenta con un buscador en su pagina principal, que renderiza los componentes on change, dependiendo si se encuentra o no en la lista otorgada.
+Como vimos que algunos links no estaban directamente en nuestra BBDD, validamos una opcion para que tuviese una imagen de producto sin imagen, para no comprometer vistas de productos.
 ![image](https://user-images.githubusercontent.com/75447311/178129599-70445ae2-9b56-4364-817a-6d6d4795518d.png)
 
 
