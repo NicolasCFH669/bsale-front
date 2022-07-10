@@ -3,6 +3,11 @@
   background-color: darkgray;
 }
 
+#categories-products > li:hover{
+  background-color: blueviolet;
+}
+
+
 .fadeInDown {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
