@@ -1,7 +1,7 @@
 "Bsale-front Nicolas Martinez" 
 Prueba Tecnica asignada consistente en una applicacion Full Stack (Front-end y Back-end), Desarrollada con las siguientes Tecnologias para el front, ocupamos Vanilla  Javascript, HTML5 y CSS3.
 
-se puede acceder a la revision de la applicacion desde este link: <a href="https://bsale-front-nm.netlify.app/">https://bsale-front-nm.netlify.app/</a>
+se puede acceder a la revision de la applicacion desde este link: <a href="http://bsalefrontendnm-env.eba-nnppssfx.us-east-1.elasticbeanstalk.com/" target="_blank">http://bsalefrontendnm-env.eba-nnppssfx.us-east-1.elasticbeanstalk.com/</a>
 
 Tambien librerias externas para agilizar el desarrollo. como Bootstrap 5, Axios.
 
